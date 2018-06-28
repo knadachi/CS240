@@ -1,0 +1,47 @@
+bash-3.2$ javac Project3.java
+bash-3.2$ java Project3 ex
+
+# of Collisions: 0
+Size of Table: 6
+
+# of Names: 6
+Minimum Average: 90.5
+  Aaron Brooks
+  Marc Bulger
+Maximum Average: 124.0
+  Daunte Culpepper
+
+Enter a name or enter nothing to quit.
+Enter Name: Peyton Manning
+  Peyton Manning: Avg: 116.2   # Scores: 2
+Enter Name: Donovan McNabb
+  Donovan McNabb: Avg: 105.6   # Scores: 2
+Enter Name: Donald Duck
+  Donald Duck not found
+Enter Name: 
+
+Thank you for using this hash table program! (:
+
+bash-3.2$ java Project3 hashingData
+
+# of Collisions: 3
+Size of Table: 32
+
+# of Names: 32
+Minimum Average: 14.4375
+  Chicago
+Maximum Average: 32.625
+  Indianapolis
+
+Enter a name or enter nothing to quit.
+Enter Name: Philadelphia
+  Philadelphia: Avg: 24.125   # Scores: 16
+Enter Name: Blah
+  Blah not found
+Enter Name: Green Bay
+  Green Bay: Avg: 26.5   # Scores: 16
+Enter Name: Tennessee
+  Tennessee: Avg: 21.5   # Scores: 16
+Enter Name: 
+
+Thank you for using this hash table program! (:
