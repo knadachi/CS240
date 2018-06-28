@@ -1,0 +1,45 @@
+Welcome to the Stack Application Program!
+
+Enter the infix expression (enter nothing to quit): a+b
+Postfix: ab+
+Prefix:  +ab
+
+Enter the infix expression (enter nothing to quit): a+b*c
+Postfix: abc*+
+Prefix:  +a*bc
+
+Enter the infix expression (enter nothing to quit): a/b-c
+Postfix: ab/c-
+Prefix:  -/abc
+
+Enter the infix expression (enter nothing to quit): a+b-c*d/e
+Postfix: ab+cd*e/-
+Prefix:  -+ab/*cde
+
+Enter the infix expression (enter nothing to quit): (a+b)
+Postfix: ab+
+Prefix:  +ab
+
+Enter the infix expression (enter nothing to quit): (a+b)*(c-d)
+Postfix: ab+cd-*
+Prefix:  *+ab-cd
+
+Enter the infix expression (enter nothing to quit): a*((b+c)/d)-e
+Postfix: abc+d/*e-
+Prefix:  -*a/+bcde
+
+Enter the infix expression (enter nothing to quit): ab+
+Invalid Input
+
+Enter the infix expression (enter nothing to quit): a++b
+Invalid Input
+
+Enter the infix expression (enter nothing to quit): ((a+b)
+Invalid Input
+
+Enter the infix expression (enter nothing to quit): )a+b(
+Invalid Input
+
+Enter the infix expression (enter nothing to quit): 
+
+Thank you for using this Stack Application Program! :)
