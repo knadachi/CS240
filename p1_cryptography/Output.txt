@@ -1,0 +1,74 @@
+Enter a word or phrase you would like to encrypt (enter nothing to quit): test
+Enter a value you would like to shift it by: 1
+uftu
+
+Would you like to decrypt the message? ( 1-Yes / 2-No ): 1
+test
+
+Enter a word or phrase you would like to encrypt (enter nothing to quit): test
+Enter a value you would like to shift it by: 100
+paop
+
+Would you like to decrypt the message? ( 1-Yes / 2-No ): 2
+
+Enter a word or phrase you would like to encrypt (enter nothing to quit): test
+Enter a value you would like to shift it by: -1
+sdrs
+
+Would you like to decrypt the message? ( 1-Yes / 2-No ): 3
+
+Please enter 1-Yes or 2-No.
+Would you like to decrypt the message? ( 1-Yes / 2-No ): yes
+
+Please enter 1-Yes or 2-No.
+Would you like to decrypt the message? ( 1-Yes / 2-No ): 1
+test
+
+Enter a word or phrase you would like to encrypt (enter nothing to quit): test
+Enter a value you would like to shift it by: -100
+xiwx
+
+Would you like to decrypt the message? ( 1-Yes / 2-No ): 1
+test
+
+Enter a word or phrase you would like to encrypt (enter nothing to quit): testing one two three
+Enter a value you would like to shift it by: 1
+uftujoh pof uxp uisff
+
+Would you like to decrypt the message? ( 1-Yes / 2-No ): 1
+testing one two three
+
+Enter a word or phrase you would like to encrypt (enter nothing to quit): testing one two three
+Enter a value you would like to shift it by: 100
+paopejc kja psk pdnaa
+
+Would you like to decrypt the message? ( 1-Yes / 2-No ): 1
+testing one two three
+
+Enter a word or phrase you would like to encrypt (enter nothing to quit): testing one two three
+Enter a value you would like to shift it by: -1
+sdrshmf nmd svn sgqdd
+
+Would you like to decrypt the message? ( 1-Yes / 2-No ): 1
+testing one two three
+
+Enter a word or phrase you would like to encrypt (enter nothing to quit): testing one two three
+Enter a value you would like to shift it by: -100
+xiwxmrk sri xas xlvii
+
+Would you like to decrypt the message? ( 1-Yes / 2-No ): 1
+testing one two three
+
+Enter a word or phrase you would like to encrypt (enter nothing to quit): last test
+Enter a value you would like to shift it by: five
+
+Please enter a numerical value.
+Enter a value you would like to shift it by: 5
+qfxy yjxy
+
+Would you like to decrypt the message? ( 1-Yes / 2-No ): 1
+last test
+
+Enter a word or phrase you would like to encrypt (enter nothing to quit): 
+
+Thank you for using this Caesar Cipher program! (:
